@@ -3,7 +3,7 @@
 
 #### Screenshot;
 
-[Screenshot](https://i.hizliresim.com/fkwmg1o.png)
+[(https://i.hizliresim.com/fkwmg1o.png)]
 
 ### Requirements
  - Any badass pc.
