@@ -1,9 +1,9 @@
-# timedShutdown
+# ⚡ timedShutdown
  A basic **Timed Shutdown** app using C#.
 
-#### Screenshot;
+#### 📷 Screenshot;
 
-[(https://i.hizliresim.com/fkwmg1o.png)]
+[![Screenshot](https://i.hizliresim.com/alk3wpq.png)]
 
-### Requirements
+### 🚀 Requirements
  - Any badass pc.
