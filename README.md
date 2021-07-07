@@ -1,4 +1,4 @@
-# ⚡ timedShutdown.
+# ⚡ timedShutdown
  A basic **Timed Shutdown** app using C#.
 
 ### 📷 Screenshot;
