@@ -7,7 +7,7 @@
 
 ### ✔️ Usage
 ```
-Select Hours, Minıtes Or Seconds & go ahead with "Start" button.
+Select Hours, Minutes Or Seconds & go ahead with "Start" button.
 ```
 
 ### 🚀 Requirements
